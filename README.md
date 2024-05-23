@@ -1,4 +1,4 @@
-# Homework challenge 02: Horiseon Search Engine Optimization
+# Horiseon
 
 ## In this assignmment, we were presented with an index that needed some refactoring of its code. We were charged with improving the accesibility of the page by altering the semantic elements, adding alt tags to images, and other small changes.
 
