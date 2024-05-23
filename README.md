@@ -4,4 +4,4 @@
 
 ![image](https://github.com/J5imonson/semantic-html/assets/158312820/eaa5f00a-89df-4181-8c4f-185b2fbba348)
 
-file:///C:/Users/joeto/Documents/bootcamp/homework/homwork01/index.html
+https://github.com/J5imonson/semantic-html.git
